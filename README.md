@@ -11,7 +11,7 @@ I try to create nice and simple GitHub Readme file in my profile.
 Skills: NATIVE ANDROID DEVELOPMENT / Kotlin / Java
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning **flutter**.
 
 
 <!--
