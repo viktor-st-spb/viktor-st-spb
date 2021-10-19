@@ -8,7 +8,7 @@
 #### I try to become Junior Android Developer.
 
 
-I try to create nice and simple GitHub Readme file in my profile.
+
 
 Skills: NATIVE ANDROID DEVELOPMENT / Kotlin / Java
 
