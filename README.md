@@ -6,9 +6,9 @@
 #### I am Junior Android Developer
 
 
-I made this project just for fun, it allows me to create nice and simple GitHub Readme file in my profile.
+I try to create nice and simple GitHub Readme file in my profile.
 
-Skills: NATIVE ANDROID DEVELOPMENT / HTML / CSS
+Skills: NATIVE ANDROID DEVELOPMENT / Kotlin / Java
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning flutter.
