@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-### My name is **Viktor**
+### My name is *Viktor*
 #### I am Junior Android Developer
 
 
