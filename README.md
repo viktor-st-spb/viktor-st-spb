@@ -4,8 +4,8 @@
 
 ### My name is *Viktor*
 
-#### Currently I'm hardware/software embedded developer.
-#### My dream is to become Junior Android Developer.
+#### Currently I'm hardware/software developer for embedded systems.
+#### I try to become Junior Android Developer.
 
 
 I try to create nice and simple GitHub Readme file in my profile.
