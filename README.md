@@ -1,5 +1,9 @@
 ![I am Junior Android Developer](https://cdn.pixabay.com/photo/2020/03/08/10/30/android-4912067__340.png)
 
+![I am Junior Android Developer](images/android.png)
+
+
+
 ### Hi there 👋
 
 ### My name is *Viktor*
