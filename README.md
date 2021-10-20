@@ -1,6 +1,6 @@
 ![I am Junior Android Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-![Android](https://cdn.pixabay.com/photo/2019/07/21/16/27/android-army-4353076_960_720.jpg)
+![Android](https://cdn.pixabay.com/photo/2019/08/17/16/49/android-4412596__340.jpg)
 
 
 
