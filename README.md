@@ -1,6 +1,6 @@
 ![I am Junior Android Developer](https://cdn.pixabay.com/photo/2020/03/08/10/30/android-4912067__340.png)
 
-![Android](https://cdn.pixabay.com/photo/2019/02/06/14/42/android-3979307__340.jpg)
+![Android](https://cdn.pixabay.com/photo/2017/09/07/11/46/android-2724826__340.jpg)
 
 
 
