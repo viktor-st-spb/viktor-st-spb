@@ -1,6 +1,6 @@
 ![I am Junior Android Developer](https://cdn.pixabay.com/photo/2020/03/08/10/30/android-4912067__340.png)
 
-![Android](https://github.com/viktor-st-spb/viktor-st-spb/images/android.png)
+![Android](https://github.com/viktor-st-spb/viktor-st-spb/compare/master?expand=1#diff-ea64e3f519df86ade2af268b507af8758b7d6363bfa587d0f1356ef484faeafd)
 
 
 
