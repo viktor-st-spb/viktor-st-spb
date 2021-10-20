@@ -1,5 +1,9 @@
 ![I am Junior Android Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+![Android](https://image.shutterstock.com/image-photo/closeup-google-android-figure-wrench-600w-1349178554.jpg)
+
+
+
 ### Hi there 👋
 
 ### My name is *Viktor*
