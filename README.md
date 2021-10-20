@@ -1,6 +1,6 @@
 ![I am Junior Android Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-![Android](https://image.shutterstock.com/image-photo/closeup-google-android-figure-wrench-600w-1349178554.jpg)
+![Android](https://images.megapixl.com/1694/16944729.jpg)
 
 
 
